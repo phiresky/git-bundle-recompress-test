@@ -1,0 +1,11 @@
+[package]
+name = "rustgittest"
+version = "0.1.0"
+authors = ["phiresky <phireskyde+git@gmail.com>"]
+
+[dependencies]
+flate2 = "0.2"
+byteorder = "1.0.0"
+enum_primitive = "*"
+num = "0.1.37"
+rust-crypto = "^0.2"
